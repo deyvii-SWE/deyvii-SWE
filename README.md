@@ -4,21 +4,21 @@ I'm a developer in progress, currently focused on learning, building projects, a
 
 🎴 About Me
 
-Currently learning and developing projects with Python.
+ * Currently learning and developing projects with Python.
 
-Exploring programming concepts through hands-on projects.
+ * Exploring programming concepts through hands-on projects.
 
-Interested in software engineering and continuous learning.
+ * Interested in software engineering and continuous learning.
 
-Working on improving my problem-solving skills one project at a time.
+ * Working on improving my problem-solving skills one project at a time.
 
 🎴 Tools & Technologies
 
-Language: Python
+ * Language: Python
 
-Code Editor: Visual Studio Code
+ * Code Editor: Visual Studio Code
 
-Version Control: Git & GitHub
+ * Version Control: Git & GitHub
 
 🎴 Current Projects
 
