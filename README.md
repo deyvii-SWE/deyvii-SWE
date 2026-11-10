@@ -26,4 +26,4 @@ I'm a developer in progress, currently focused on learning, building projects, a
 
 📫 Contact
 
-GitHub: @YOUR_USERNAME
+GitHub: @deyvii-SWE
