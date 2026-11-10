@@ -26,4 +26,5 @@ I'm a developer in progress, currently focused on learning, building projects, a
 
 📫 Contact
 
-GitHub: @deyvii-SWE
+ * GitHub: @deyvii-SWE
+ * Gmail: deyviiswe@gmail.com
