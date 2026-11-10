@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**deyvii-SWE/deyvii-SWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer in progress, currently focused on learning, building projects, and improving my programming skills.
 
-Here are some ideas to get you started:
+🎴 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and developing projects with Python.
+
+Exploring programming concepts through hands-on projects.
+
+Interested in software engineering and continuous learning.
+
+Working on improving my problem-solving skills one project at a time.
+
+🎴 Tools & Technologies
+
+Language: Python
+
+Code Editor: Visual Studio Code
+
+Version Control: Git & GitHub
+
+🎴 Current Projects
+
+ * TicTacToe — A command-line Tic-Tac-Toe game built with Python, featuring PvP, PvE, and multiple game modes.
+
+📫 Contact
+
+GitHub: @YOUR_USERNAME
